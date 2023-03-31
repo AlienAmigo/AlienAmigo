@@ -54,11 +54,14 @@
 
 <h3>💻 Software and Tools</h3>
 
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,gulp,webpack,vite,bash,codepen,figma,ai,ps" />
-    </a>
-  </p>
+<p align="center">
+<img src="img/WebStorm_Icon.svg" alt="Альтернативный текст" width="40" height="40" />
+    
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,gulp,webpack,vite,bash,codepen,figma,ai,ps" />
+</a>
+<img src="img/Adobe_ID.svg" alt="Альтернативный текст" width="48" height="48" />
+</p>
 
 </details>
 
