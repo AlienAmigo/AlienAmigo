@@ -22,7 +22,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,react,styledcomponents,redux,laravel,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=nodejs,react,styledcomponents,redux,astro,tailwind,laravel,bootstrap" />
     </a>
   </p>
 
