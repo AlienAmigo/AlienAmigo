@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Peter%20Ryzhov%20👨‍💻%20|%20I%20love%20coding!❤️💻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Peter%20Ryzhov%20👨‍💻%20|%20I%20love%20coding!❤️💻&width=800&height=120)](https://github.com/Akshay090/svg-banners)
 
 ![image](https://www.codewars.com/users/AlienAmigo/badges/large)
 
