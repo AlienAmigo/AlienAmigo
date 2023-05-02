@@ -1,5 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Peter%20Ryzhov%20👨‍💻%20|%20I%20love%20coding!❤️💻&width=800&height=150)](https://github.com/Akshay090/svg-banners)
-![image](https://www.codewars.com/users/uyncis/badges/large)
+
+![image](https://www.codewars.com/users/AlienAmigo/badges/large)
+
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
