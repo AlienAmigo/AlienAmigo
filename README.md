@@ -74,7 +74,9 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="AlienAmigo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=AlienAmigo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlienAmigo)](https://github.com/AlienAmigo/github-readme-activity-graph)
 </details>
+
 
 [![](https://visitcount.itsvg.in/api?id=AlienAmigo&icon=0&color=3)](https://visitcount.itsvg.in)
 
